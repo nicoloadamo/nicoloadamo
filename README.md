@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **nicoloadamo/nicoloadamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <a href="https://app.daily.dev/neekadamo"><img src="https://github.com/nicoloadamo/nicoloadamo/devcard.svg" width="400" alt="Nicolò Adamo's Dev Card"/></a>
+-->
